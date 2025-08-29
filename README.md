@@ -1,2 +1,2 @@
-# C-Program-Pratice
-Pratice set of C Programming
+# C-Program-Practice
+Practice set of C Programming
